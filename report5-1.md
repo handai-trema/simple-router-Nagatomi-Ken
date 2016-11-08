@@ -18,9 +18,9 @@
 
 
 ###ソースコード
-* [simple_router.rb](https://github.com/handai-trema/simple-router-Nagatomi-Ken/blob/develop/lib/simple_router.rb.rb)  
+* [simple_router.rb](https://github.com/handai-trema/simple-router-Nagatomi-Ken/blob/develop/lib/simple_router.rb)  
 * [routing_table.rb](https://github.com/handai-trema/simple-router-Nagatomi-Ken/blob/develop/lib/routing_table.rb)  
-* [routing_table](https://github.com/handai-trema/simple-router-Nagatomi-Ken/blob/develop/bin/routing_table.rb)  
+* [routing_table](https://github.com/handai-trema/simple-router-Nagatomi-Ken/blob/develop/bin/routing_table)  
 
 ###ルーティングテーブルの表示
 書き加えたコードを以下に示す。
